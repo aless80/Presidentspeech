@@ -9,7 +9,8 @@ Inspiration for this project: [Topic Modeling the State of the Union: TV and Par
 
 ## US Presidents' State of the Union Addresses and Messages
 
-State of the Union Messages to the Congress are mandated by the US constitution. In modern times messages are orally delivered message presented to a joint session of Congress, but the State of the Union was a written report sent to Congress to coincide with a new Session of Congress. In the texts considered here, Nixon submiited multiiple documents or gave both oral and written messages. 
+State of the Union Messages to the Congress are mandated by the US constitution. In modern times messages are orally delivered message presented to a joint session of Congress, but the State of the Union was a written report sent to Congress to coincide with a new Session of Congress. In the texts considered here, Nixon submiited multiiple documents or gave both oral and written messages. Roosevelt's last (1945) and Eisenhower's 4th (1956) were technically written messages although they also addressed the American people via radio.
+
 
 ## Scraping
 
