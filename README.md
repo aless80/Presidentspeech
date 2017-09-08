@@ -23,5 +23,8 @@ See [Scrape.ipynb](https://github.com/aless80/Presidentspeech/blob/master/Scrape
 
 ## Topic analysis
 
-The text is imported
+The text is imported from [documents_raw.pkl](https://github.com/aless80/Presidentspeech/blob/master/documents_raw.pkl) and  preprocessed. Preprocessing includes removing removing non-unicode characters, words starting and ending with non-letter characters ("1st" is ok, "123" not), removing punctuation and stop words ("and",  "won't"), lemmatization. 
+
+After that Latent Dirichlet Allocation [LDA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html) and Non-Negative Matrix Factorization [NMF](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html) are applied. The topics and the analysis are plotted using [pyLDAvis](http://nbviewer.jupyter.org/github/bmabey/pyLDAvis/blob/master/notebooks/sklearn.ipynb) and [WordCloud](https://github.com/amueller/word_cloud).
+
 See [Presidentspeech.ipynb](https://github.com/aless80/Presidentspeech/blob/master/Presidentspeech.ipynb)
