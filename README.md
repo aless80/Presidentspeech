@@ -15,13 +15,13 @@ The text is scraped using [urllib2](https://pymotw.com/2/urllib2/) and [Beautifu
 
 [The American Presidency Project](http://www.presidency.ucsb.edu/sou.php)
 
-To avoid having to scrape the site too often, the scraped texts are stored in documents_raw.pkl using Pickle. 
+To avoid having to scrape the site too often, the scraped texts are stored in [documents_raw.pkl](https://github.com/aless80/Presidentspeech/blob/master/documents_raw.pkl) using Pickle. 
 
-See Scrape.ipynb for the code doing the scraping. 
+See [Scrape.ipynb](https://github.com/aless80/Presidentspeech/blob/master/Scrape.ipynb) for the code doing the scraping. 
 
 ---
 
 ## Topic analysis
 
 The text is imported
-See Presidentspeech.ipynb
+See [Presidentspeech.ipynb](https://github.com/aless80/Presidentspeech/blob/master/Presidentspeech.ipynb)
