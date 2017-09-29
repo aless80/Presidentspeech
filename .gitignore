@@ -1,2 +1,15 @@
-TODO
---*
+# Python byte-code
+*.py[co]
+
+# virutalenv directories
+/env*/
+
+# setup directory
+/dist/
+/build/
+
+# ipython checkpoints
+.ipynb_checkpoints
+
+/.idea/
+/__MACOSX/
