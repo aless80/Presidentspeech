@@ -32,3 +32,15 @@ The text is imported from [documents_raw.pkl](https://github.com/aless80/Preside
 After that Latent Dirichlet Allocation [LDA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html) and Non-Negative Matrix Factorization [NMF](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html) are applied. The topics and the analysis are plotted using [pyLDAvis](http://nbviewer.jupyter.org/github/bmabey/pyLDAvis/blob/master/notebooks/sklearn.ipynb) and [WordCloud](https://github.com/amueller/word_cloud).
 
 See [Presidentspeech.ipynb](https://github.com/aless80/Presidentspeech/blob/master/Presidentspeech.ipynb)
+
+## 
+Install a virtual environment or use the --user flag after pip. 
+
+```
+pip3 install -r requirements.txt
+```
+
+Also download NLTK data with a command similar to the following (more details on [www.nltk.org](https://www.nltk.org/data.html)):
+```
+python -m nltk.downloader -d /usr/local/share/nltk_data all
+```
