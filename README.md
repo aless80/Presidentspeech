@@ -33,7 +33,7 @@ After that Latent Dirichlet Allocation [LDA](http://scikit-learn.org/stable/modu
 
 See [Presidentspeech.ipynb](https://github.com/aless80/Presidentspeech/blob/master/Presidentspeech.ipynb)
 
-## 
+## Requirements
 Install a virtual environment or use the --user flag after pip. 
 
 ```
