@@ -9,7 +9,7 @@ kiwisolver==1.0.1
 MarkupSafe==1.0
 matplotlib==3.0.0
 more-itertools==4.3.0
-nltk==3.3
+nltk==3.4.5
 numexpr==2.6.8
 numpy==1.15.2
 pandas==0.23.4
