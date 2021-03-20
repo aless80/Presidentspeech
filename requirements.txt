@@ -3,7 +3,7 @@ attrs==18.2.0
 cycler==0.10.0
 funcy==1.11
 future==0.16.0
-Jinja2==2.10
+Jinja2==2.11.3
 joblib==0.12.5
 kiwisolver==1.0.1
 MarkupSafe==1.0
