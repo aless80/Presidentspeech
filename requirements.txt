@@ -4,7 +4,7 @@ cycler==0.10.0
 funcy==1.11
 future==0.16.0
 Jinja2==2.10
-joblib==0.12.5
+joblib==1.2.0
 kiwisolver==1.0.1
 MarkupSafe==1.0
 matplotlib==3.0.0
